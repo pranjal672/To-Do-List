@@ -2,4 +2,4 @@
 
 Small project on To-Do List.
 Learned from developedbyed tutorial on Youtube.
-Added a little extra functionality not shown on tutorial too.
+Added local storage functionality in the project.
